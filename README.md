@@ -11,3 +11,6 @@ Kinect for Windows SDK v1.8
 https://www.microsoft.com/en-us/download/confirmation.aspx?id=40278
 Kinect for Windows Developer Toolkit v1.8
 https://www.microsoft.com/en-us/download/confirmation.aspx?id=40276
+
+Import the Simple Open NI library.
+In case you have difficulties finding the library, send me a message.
